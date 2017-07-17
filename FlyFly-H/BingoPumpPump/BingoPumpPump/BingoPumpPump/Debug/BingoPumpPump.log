@@ -1,0 +1,5 @@
+﻿  ui.c
+c:\users\flyfly yellow\desktop\bingopumppump\bingopumppump\bingopumppump\ui.c(233): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+c:\users\flyfly yellow\desktop\bingopumppump\bingopumppump\bingopumppump\ui.c(243): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+  BingoPumpPump.vcxproj -> C:\Users\FlyFly Yellow\Desktop\BingoPumpPump\BingoPumpPump\Debug\BingoPumpPump.exe
+  BingoPumpPump.vcxproj -> C:\Users\FlyFly Yellow\Desktop\BingoPumpPump\BingoPumpPump\Debug\BingoPumpPump.pdb (Partial PDB)
