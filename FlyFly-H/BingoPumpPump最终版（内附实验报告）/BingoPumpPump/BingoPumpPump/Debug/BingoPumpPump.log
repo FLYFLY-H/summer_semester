@@ -1,0 +1,10 @@
+﻿  ui.c
+c:\users\flyfly yellow\desktop\bingopumppump\bingopumppump\bingopumppump\ui.c(121): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+c:\users\flyfly yellow\desktop\bingopumppump\bingopumppump\bingopumppump\ui.c(228): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+c:\users\flyfly yellow\desktop\bingopumppump\bingopumppump\bingopumppump\ui.c(238): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+  map.c
+  game_operation.c
+c:\users\flyfly yellow\desktop\bingopumppump\bingopumppump\bingopumppump\game_operation.c(24): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  BingoPumpPump.vcxproj -> C:\Users\FlyFly Yellow\Desktop\BingoPumpPump\BingoPumpPump\Debug\BingoPumpPump.exe
+  BingoPumpPump.vcxproj -> C:\Users\FlyFly Yellow\Desktop\BingoPumpPump\BingoPumpPump\Debug\BingoPumpPump.pdb (Partial PDB)
